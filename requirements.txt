@@ -1,0 +1,7 @@
+# OCR読み取り処理に必要なパッケージ
+# セットアップ: python3 -m venv .venv310 && .venv310/bin/pip install -r requirements.txt
+google-cloud-vision>=3.0.0
+requests>=2.28.0
+Pillow>=9.0.0
+PyMuPDF>=1.23.0
+pdf2image>=1.16.0
